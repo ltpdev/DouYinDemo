@@ -1,0 +1,33 @@
+获取某类直播：
+http://capi.douyucdn.cn/api/v1/live/{tag_id}?&limit=20
+比如：
+//推荐
+http://capi.douyucdn.cn/api/v1/live?&limit=20
+lol
+http://capi.douyucdn.cn/api/v1/live/1?&limit=20
+绝地求生
+http://capi.douyucdn.cn/api/v1/live/270?&limit=20
+//DOTA2
+http://capi.douyucdn.cn/api/v1/live/3?&limit=20
+//炉石传说
+http://capi.douyucdn.cn/api/v1/live/2?&limit=20
+//穿越火线
+http://capi.douyucdn.cn/api/v1/live/33?&limit=20
+//DNF
+http://capi.douyucdn.cn/api/v1/live/40?&limit=20
+//传奇世界
+http://capi.douyucdn.cn/api/v1/live/355?&limit=20
+
+//获取全部分类
+http://capi.douyucdn.cn/api/v1/getColumnDetail
+//获取直播流地址
+"https://m.douyu.com/html5/live?roomId=" + roomId;
+//搜索接口
+"http://capi.douyucdn.cn/api/v1/mobileSearch/1/1?sk=" + keyWord +
+                "&limit=10&client_sys=android";
+https://www.quanmin.tv/json/play/list.json?11211639&os=1
+
+http://interface.xyjia.org///public//users//SpeedDial.xml
+
+打包密码：jks336699
+
